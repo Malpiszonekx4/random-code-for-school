@@ -1,0 +1,1 @@
+stack runhaskell main.hs
